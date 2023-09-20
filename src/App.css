@@ -1,0 +1,16 @@
+#root {
+  margin: 0 auto;
+}
+.navbar {
+  background-image: linear-gradient(to right, #8884d8, #82ca9d);
+  color: white;
+  padding: 10px;
+}
+
+.chart-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+
+  padding: 20px;
+}
